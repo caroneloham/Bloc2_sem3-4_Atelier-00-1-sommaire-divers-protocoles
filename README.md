@@ -1,5 +1,3 @@
-# 🖨️ Audit de Sécurité des Imprimantes 
-
 """
 # 📄 BLOC2 SEM3-4 ATELIER-00 – ETUDE DE DIVERS PROTOCOLES
 
