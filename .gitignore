@@ -45,3 +45,6 @@ node_modules/
 *.bak
 *.old
 *.swp
+# Ignore the img directory
+img/
+
