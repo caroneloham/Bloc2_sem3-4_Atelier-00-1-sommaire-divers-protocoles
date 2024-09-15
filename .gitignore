@@ -1,0 +1,47 @@
+# Ignore Packet Tracer backups and temporary files
+*.pkt~
+*.pka~
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignore compiled files
+*.o
+*.out
+*.class
+
+# Ignore documentation temporary files
+doc/*.aux
+doc/*.log
+doc/*.toc
+doc/*.lof
+doc/*.lot
+
+# Ignore images
+img/*.png
+img/*.jpg
+img/*.jpeg
+img/*.gif
+
+# Ignore HTML map files
+Map_TP0.html
+
+# Ignore node_modules if using Node.js
+node_modules/
+
+# Ignore IDE settings (VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Ignore Git related files
+.git/
+.gitignore
+
+# Ignore backup files
+*.bak
+*.old
+*.swp
