@@ -1,8 +1,16 @@
+# 📄 BLOC2 SEM3-4 ATELIER-00 – ETUDE DE DIVERS PROTOCOLES
+[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![GNS3](https://img.shields.io/badge/GNS3-008080?style=flat-square&logo=gns3&logoColor=white)](https://www.gns3.com/)
+[![VLAN](https://img.shields.io/badge/VLAN-0078D4?style=flat-square&logo=vlc-media-player&logoColor=white)](https://en.wikipedia.org/wiki/Virtual_LAN)
 
 <img src="img/DALL·E-2024-09-15-23.45.png" alt="protocoles" width="200" />
-# 📄 BLOC2 SEM3-4 ATELIER-00 – ETUDE DE DIVERS PROTOCOLES
+
 
 ## 🎓 BTS SIO Option SISR - Étude des protocoles réseaux
+# 🛡️ Audit de Sécurité Réseau avec ChatGPT-4
+
+
+
 
 ---
 
