@@ -2,6 +2,12 @@
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/)
 [![GNS3](https://img.shields.io/badge/GNS3-008080?style=flat-square&logo=gns3&logoColor=white)](https://www.gns3.com/)
 [![VLAN](https://img.shields.io/badge/VLAN-0078D4?style=flat-square&logo=vlc-media-player&logoColor=white)](https://en.wikipedia.org/wiki/Virtual_LAN)
+[![SSH](https://img.shields.io/badge/SSH-4E9A06?style=flat-square&logo=gnubash&logoColor=white)](https://www.openssh.com/)
+[![VPN](https://img.shields.io/badge/VPN-00599C?style=flat-square&logo=openvpn&logoColor=white)](https://openvpn.net/)
+[![CDP](https://img.shields.io/badge/CDP-FF5733?style=flat-square&logo=cisco&logoColor=white)](https://en.wikipedia.org/wiki/Cisco_Discovery_Protocol)
+[![LLDP](https://img.shields.io/badge/LLDP-0078D7?style=flat-square&logo=ieee&logoColor=white)](https://en.wikipedia.org/wiki/Link_Layer_Discovery_Protocol)
+[![NTP](https://img.shields.io/badge/NTP-FFDD00?style=flat-square&logo=clockify&logoColor=white)](https://www.ntp.org/)
+
 
 <img src="img/DALL·E-2024-09-15-23.45.png" alt="protocoles" width="200" />
 
