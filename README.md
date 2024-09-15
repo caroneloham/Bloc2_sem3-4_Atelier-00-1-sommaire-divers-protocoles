@@ -38,32 +38,33 @@ Ce repository contient les résultats d'une étude approfondie sur la mise en œ
 
 ```plaintext
 .
-├── configs_vlans_rip_nat_ssh
-│   ├── vlan_configs
-│   │   ├── switch_vlan_config.txt
-│   │   ├── router_rip_config.txt
-│   │   └── router_nat_config.txt
-│   ├── ssh_sessions
-│   │   ├── session_router1.log
-│   │   └── session_switch0.log
-│   └── cdp_logs
+├── Packet_Tracer
+│   ├── Bloc2_sem3-4_Atelier-00-activite-1_Inter-VLAN_Routing_Challenge.pkt
+│   ├── Bloc2_sem3-4_Atelier-00-activite-2_Découverte-NAT-RIP-01.pka
+│   ├── Bloc2_sem3-4_Atelier-00-activite-3_Map-a-Network-Using-CDP.pka
+│   ├── Bloc2_sem3-4_Atelier-00-activite-4_Configure-CDP-and-LLDP.pkt
+│   ├── Bloc2_sem3-4_Atelier-00-activite-5_Configure-and-Verify-NTP.pka
+│   ├── Bloc2_sem3-4_Atelier-00-activite-6-reconstruction-reseau.pkt
+│   ├── Bloc2_sem3-4_Atelier-00-activite-7-Syslog-NTP-and-SSH-debut.pka
+│   ├── Bloc2_sem3-4_Atelier-00-activite-8-Troubleshoot-VTP-and-DTP.pka
+│   ├── Bloc2_sem3-4_Atelier-00-activite-9-SSH-sur-routeur-et-switch.pkt
+│   └── Bloc2_sem3-4_Atelier-00-activite-10-tacacs.pkt
+│
 ├── doc
-│   ├── rapport_etude_protocoles.docx
-│   └── rapport_etude_protocoles.pdf
-└── topologie
-    ├── packet_tracer_topology.pkt
-    └── network_diagram.png
-```
+│   ├── Bloc2_sem3-4_Atelier-00-1-sommaire-divers-protocoles_eloham_caron.docx
+│   └── Bloc2_sem3-4_Atelier-00-1-sommaire-divers-protocoles_eloham_caron.pdf
+│
+└── Map_TP0.html
 ## 📑 Explications
+
+### Dossier `Packet_Tracer`
+Ce dossier contient tous les fichiers Packet Tracer utilisés pour la simulation des activités réseau, y compris la configuration du routage Inter-VLAN, NAT, RIP, et d'autres protocoles.
 
 ### Dossier `doc`
 Les documents présents dans ce dossier se concentrent sur la documentation des configurations réseau réalisées, ainsi que les protocoles implémentés dans les diverses activités.
 
-### Dossier `configs_vlans_rip_nat_ssh`
-Ce dossier contient toutes les configurations des VLANs, du routage RIP, des règles NAT, ainsi que les logs des sessions SSH pour accéder aux périphériques réseau.
-
-### Dossier `topologie`
-Ce dossier contient les fichiers Packet Tracer et les diagrammes réseau utilisés pour la simulation et la cartographie du réseau.
+### Fichier `Map_TP0.html`
+Ce fichier est une représentation HTML de la topologie du réseau utilisée dans les activités.
 
 ---
 
@@ -83,7 +84,6 @@ config t
 vlan 10
 name VLAN_PC1
 exit
-"""
 ## 🔒 Confidentialité
 
 Ce repository contient des informations techniques liées à la configuration des protocoles réseau. La diffusion est restreinte aux membres autorisés du programme BTS SIO.
@@ -95,4 +95,3 @@ Début de l'activité : 01/09/2024
 Date de soumission : 30/09/2024  
 
 _Auteur : Eloham Caron, BTS SIO Option SISR_
-"""
