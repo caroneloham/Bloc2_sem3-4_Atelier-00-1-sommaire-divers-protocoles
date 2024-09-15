@@ -1,3 +1,5 @@
+
+<img src="img/DALL·E-2024-09-15-23.45.png" alt="protocoles" width="200" />
 # 📄 BLOC2 SEM3-4 ATELIER-00 – ETUDE DE DIVERS PROTOCOLES
 
 ## 🎓 BTS SIO Option SISR - Étude des protocoles réseaux
