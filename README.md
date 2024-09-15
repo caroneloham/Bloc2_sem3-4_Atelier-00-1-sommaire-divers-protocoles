@@ -101,6 +101,7 @@ config t
 vlan 10
 name VLAN_PC1
 exit
+```
 ## 🔒 Confidentialité
 
 Ce repository contient des informations techniques liées à la configuration des protocoles réseau. La diffusion est restreinte aux membres autorisés du programme BTS SIO.
