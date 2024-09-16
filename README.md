@@ -13,7 +13,6 @@
 
 
 ## 🎓 BTS SIO Option SISR - Étude des protocoles réseaux
-# 🛡️ Audit de Sécurité Réseau avec ChatGPT-4
 
 
 
